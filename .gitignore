@@ -1,0 +1,4 @@
+.env
+.venv
+my_bot.session
+unknown_errors.txt
